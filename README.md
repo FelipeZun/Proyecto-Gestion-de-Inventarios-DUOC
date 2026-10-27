@@ -1,1 +1,1 @@
-# Proyecto-Gesti-n-de-Inventarios-DUOC
+# Proyecto-Gestion-de-Inventarios-DUOC
